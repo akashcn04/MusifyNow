@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Music-App",
+  "main": "index.js",
+  "author": "Akash CN",
+  "license": "MIT"
+}
