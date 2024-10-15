@@ -3,6 +3,9 @@ import {Routes, Route } from "react-router-dom";
 import {Home, Login} from './components';
 
 const App = () => {
+
+  //continue from here
+
   return (
     <div className="w-screen h-screen flex justify-center bg-primary text-2xl items-center">
       <Routes>
